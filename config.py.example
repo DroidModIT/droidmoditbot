@@ -1,0 +1,3 @@
+# $ mv config.py.example.py
+
+BOT_TOKEN = ''  # add telegram bot token here
