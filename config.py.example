@@ -1,3 +1,4 @@
 # $ mv config.py.example config.py
 
 BOT_TOKEN = ''  # add telegram bot token here
+THREADS = 2  # bot thread value
